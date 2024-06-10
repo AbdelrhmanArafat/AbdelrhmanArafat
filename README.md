@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Abdelrahman Arafat
-</h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=fira+code&amp;pause=1000&amp;color=0000FF&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=Weclome+to+Abdelrahman's+Github!" alt="Typing SVG"></a>
+</h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=fira+code&amp;pause=1000&amp;color=0000FF&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=Welcome+to+Abdelrahman's+Github!" alt="Typing SVG"></a>
 <h3 align="center">Flutter Developer | Mobile app Developer| Software Developer، I'm passionate about building beautiful and high-performance Cross-platform applications
 </h3>
 
