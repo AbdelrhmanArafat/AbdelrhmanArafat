@@ -23,7 +23,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/abdelrhmanarafat/" target="_blank">
-    <img align="center"
+    <img align="left"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="linkedin"
       height="30"
@@ -39,7 +39,7 @@
   </a>
   
   <a href="https://medium.com/@AbdelrhmanArafat" target="_blank">
-    <img align="center"
+    <img align="right"
       src="https://cdn-icons-png.freepik.com/512/5968/5968906.png"
       alt="medium"
       height="30"
