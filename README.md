@@ -31,7 +31,7 @@
   </a>
   
   <a href="https://stackoverflow.com/users/18286217/abdelrhman-arafat" target="_blank">
-    <img align="center"
+    <img align="left"
       src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Stack_Overflow-512.png"
       alt="stackoverflow"
       height="30"
