@@ -50,23 +50,38 @@
 ## 💻 Tech Stack:
 
 <p align="left"> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK-F27_MERDnxTvwVSbdvmR_xU7HPAgjVZGg_2cBj1Cw&s" alt="sqlite" width="60" height="40"/></a>
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
+  <img align="left"
+    src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
+    alt="flutter"
+    width="40"
+    height="40"/>
+</a>
+  
+<a href="https://dart.dev" target="_blank" rel="noreferrer"> 
+  <img align="left"
+    src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
+    alt="dart"
+    width="40"
+    height="40"/>
+</a>
+
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img align="left" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK-F27_MERDnxTvwVSbdvmR_xU7HPAgjVZGg_2cBj1Cw&s" alt="sqlite" width="60" height="40"/></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA2hHRQlhUF-W6x8jEEObzzLZFLETqmIDpGrLn3_gRTw&s" alt="git" width="40" height="40"/></a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/646/324/png-transparent-github-computer-icons-github-logo-monochrome-head-thumbnail.png" alt="github" width="40" height="40"/></a>
-<a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-azure-devops-3628645-3029870.png?f=webp" alt="microsoftazure" width="40" height="40"/></a>
-<a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" alt="notion" width="40" height="40"/></a>
-<a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/115/721/png-transparent-trello-social-icons-icon.png" alt="trello" width="40" height="40"/></a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA2hHRQlhUF-W6x8jEEObzzLZFLETqmIDpGrLn3_gRTw&s" alt="git" width="40" height="40"/></a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img align="left" src="https://w7.pngwing.com/pngs/646/324/png-transparent-github-computer-icons-github-logo-monochrome-head-thumbnail.png" alt="github" width="40" height="40"/></a>
+<a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"> <img align="left" src="https://cdn.iconscout.com/icon/free/png-256/free-azure-devops-3628645-3029870.png?f=webp" alt="microsoftazure" width="40" height="40"/></a>
+<a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" alt="notion" width="40" height="40"/></a>
+<a href="https://trello.com/" target="_blank" rel="noreferrer"> <img align="left" src="https://w7.pngwing.com/pngs/115/721/png-transparent-trello-social-icons-icon.png" alt="trello" width="40" height="40"/></a>
 <!-- <a href="https://www.markdownguide.org/getting-started/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/markdown-icon-512x377-orv0kgr5.png" alt="markdown" width="40" height="40"/></a> -->
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/512/824/png-transparent-visual-studio-code-hd-logo-thumbnail.png" alt="vscode" width="40" height="40"/></a>
-<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/1024px-Android_Studio_icon_%282023%29.svg.png" alt="androidstudio" width="40" height="40"/></a>
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/747/41/png-transparent-intellij-macos-bigsur-icon-thumbnail.png" alt="intellij" width="40" height="40"/></a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="postman" width="40" height="40"/></a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/kaox1VteLsWAuNxPxhm8t4llaoyFhxzDjo9g4Hdf92bKdT_Sn6Yrdku6rApuc5ktirw" alt="xd" width="40" height="40"/></a> 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img align="left" src="https://w7.pngwing.com/pngs/512/824/png-transparent-visual-studio-code-hd-logo-thumbnail.png" alt="vscode" width="40" height="40"/></a>
+<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/1024px-Android_Studio_icon_%282023%29.svg.png" alt="androidstudio" width="40" height="40"/></a>
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img align="left" src="https://w7.pngwing.com/pngs/747/41/png-transparent-intellij-macos-bigsur-icon-thumbnail.png" alt="intellij" width="40" height="40"/></a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img align="left" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="postman" width="40" height="40"/></a>
+<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img align="left" src="https://play-lh.googleusercontent.com/kaox1VteLsWAuNxPxhm8t4llaoyFhxzDjo9g4Hdf92bKdT_Sn6Yrdku6rApuc5ktirw" alt="xd" width="40" height="40"/></a> 
 </p>
 
 <br>
