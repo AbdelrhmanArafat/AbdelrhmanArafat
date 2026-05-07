@@ -39,7 +39,7 @@
   </a>
   
   <a href="https://medium.com/@AbdelrhmanArafat" target="_blank">
-    <img align="right"
+    <img align="center"
       src="https://cdn-icons-png.freepik.com/512/5968/5968906.png"
       alt="medium"
       height="30"
