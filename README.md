@@ -19,8 +19,6 @@
 
 ## 🌐 Socials:
 
-## 🌐 Socials:
-
 <p align="left">
   <a href="https://www.linkedin.com/in/abdelrhmanarafat/" target="_blank">
     <img align="left"
@@ -39,7 +37,7 @@
   </a>
   
   <a href="https://medium.com/@AbdelrhmanArafat" target="_blank">
-    <img align="center"
+    <img align="left"
       src="https://cdn-icons-png.freepik.com/512/5968/5968906.png"
       alt="medium"
       height="30"
